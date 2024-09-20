@@ -1,2 +1,2 @@
-# tomatoclock_FrontEnd
-The frontend part of tomatoclock
+# tomatoclock
+My first Android project 
